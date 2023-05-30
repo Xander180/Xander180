@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xander180
-- 🌱 I’m currently learning ... Python, C#
+- 🌱 I’m currently learning ... Kotlin
 - 📫 How to reach me ... Here 
 
 <!---
