@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wilson
 - 🌱 I’m currently learning ... Kotlin
-- 📫 How to reach me ... Here 
+- 📫 How to reach me ... wilson.ramirez98@gmail.com 
 
 <!---
 Xander180/Xander180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
