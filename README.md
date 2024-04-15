@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wilson
-- 🌱 I’m currently learning ... SwiftUI
+- 🌱 I’m currently learning ... SwiftUI + Java
 - 📫 How to reach me ... wilson.ramirez98@gmail.com 
 
 <!---
